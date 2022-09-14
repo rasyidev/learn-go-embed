@@ -20,3 +20,11 @@ func TestEmbed(t *testing.T) {
 PASS
 ok      learn-go-embed  0.051s
 */
+
+/* Sudah diisi
+=== RUN   TestEmbed
+Hello World
+--- PASS: TestEmbed (0.00s)
+PASS
+ok      learn-go-embed  0.049s
+*/
