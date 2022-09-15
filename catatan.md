@@ -9,3 +9,6 @@
 ## Embed File ke []byte
 - `[]byte`, slice of byte
 - Digunakan untuk embed file yang bentuknya binary seperti gambar, excel, pdf dll.
+
+## Embed Multiple Files
+- Menggunakan tipe data embed.FS
