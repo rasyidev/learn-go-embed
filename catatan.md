@@ -8,6 +8,7 @@
 
 ## Embed File ke []byte
 - `[]byte`, slice of byte
+- Saat file sudah diembed ke dalam program, hasil compile program sudah menyimpan file tersebut.
 - Digunakan untuk embed file yang bentuknya binary seperti gambar, excel, pdf dll.
 
 ## Embed Multiple Files
