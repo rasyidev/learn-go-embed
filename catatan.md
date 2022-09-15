@@ -12,3 +12,9 @@
 
 ## Embed Multiple Files
 - Menggunakan tipe data embed.FS
+
+## Patch Matcher
+- Digunakan untuk membaca multiple file
+- Cocok untuk file dengan pola tertentu, baik jenisnya dll
+- `path.Match`
+- More: https://golang.org/pkg/path/#Match
